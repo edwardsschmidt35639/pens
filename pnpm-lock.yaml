@@ -7,3 +7,6 @@ importers:
 '@ethersproject/abstract-provider':
         specifier: ^5.7.0
         version: 5.7.0
+'@ethersproject/bytes':
+        specifier: ^5.7.0
+        version: 5.7.0
