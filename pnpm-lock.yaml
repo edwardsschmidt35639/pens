@@ -10,3 +10,5 @@ importers:
 '@ethersproject/bytes':
         specifier: ^5.7.0
         version: 5.7.0
+ '@graphql-typed-document-node/core':
+        specifier: ^3.1.2
