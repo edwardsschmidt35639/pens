@@ -12,3 +12,5 @@ importers:
         version: 5.7.0
  '@graphql-typed-document-node/core':
         specifier: ^3.1.2
+ version: 3.1.2(graphql@16.6.0)
+      '@urql/core':
