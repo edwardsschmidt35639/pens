@@ -15,3 +15,5 @@ importers:
  version: 3.1.2(graphql@16.6.0)
       '@urql/core':
  specifier: ^3.0.5
+ version: 3.0.5(graphql@16.6.0)
+      arweave:
