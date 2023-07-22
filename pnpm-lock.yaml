@@ -17,3 +17,5 @@ importers:
  specifier: ^3.0.5
  version: 3.0.5(graphql@16.6.0)
       arweave:
+ specifier: ^1.13.3
+        version: 1.13.3
