@@ -26,3 +26,5 @@ importers:
         specifier: ^3.7.2
 version: 3.7.2
       ethereum-multicall:
+ specifier: ^2.16.1
+        version: 2.16.1
