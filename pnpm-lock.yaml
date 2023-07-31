@@ -34,3 +34,5 @@ version: 3.7.2
       graphql:
   specifier: ^16.6.0
         version: 16.6.0
+level:
+        specifier: ^8.0.0
