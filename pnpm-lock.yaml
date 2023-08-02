@@ -38,3 +38,5 @@ level:
         specifier: ^8.0.0
  version: 8.0.0
       yargs:
+ specifier: ^17.7.1
+        version: 17.7.1
