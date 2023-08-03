@@ -40,3 +40,5 @@ level:
       yargs:
  specifier: ^17.7.1
         version: 17.7.1
+ devDependencies:
+      '@graphql-codegen/cli':
