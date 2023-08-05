@@ -44,3 +44,5 @@ level:
       '@graphql-codegen/cli':
 specifier: 2.11.3
         version: 2.11.3(graphql@16.6.0)(typescript@4.9.3)
+ '@graphql-codegen/typed-document-node':
+        specifier: 2.3.2
