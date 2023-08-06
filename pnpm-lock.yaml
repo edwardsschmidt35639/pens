@@ -48,3 +48,4 @@ specifier: 2.11.3
         specifier: 2.3.2
  version: 2.3.2(graphql@16.6.0)
       '@graphql-codegen/typescript':
+specifier: 2.7.2
