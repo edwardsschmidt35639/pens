@@ -51,3 +51,5 @@ specifier: 2.11.3
 specifier: 2.7.2
  version: 2.7.2(graphql@16.6.0)
       '@graphql-codegen/typescript-operations':
+  specifier: 2.5.2
+        version: 2.5.2(graphql@16.6.0)
