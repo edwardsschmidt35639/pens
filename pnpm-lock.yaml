@@ -58,3 +58,6 @@ specifier: 2.7.2
         version: 3.5.38
 '@types/jest':
         specifier: ^29.2.6
+version: 29.2.6
+      '@types/yargs':
+        specifier: ^17.0.22
