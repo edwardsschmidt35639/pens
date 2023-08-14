@@ -62,3 +62,4 @@ version: 29.2.6
       '@types/yargs':
         specifier: ^17.0.22
  version: 17.0.22
+ '@typescript-eslint/eslint-plugin':
