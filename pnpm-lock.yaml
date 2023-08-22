@@ -74,3 +74,4 @@ version: 10.1.0
       eslint:
    specifier: ^7.28.0
         version: 7.32.0
+  eslint-config-prettier:
