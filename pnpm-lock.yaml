@@ -81,3 +81,5 @@ version: 10.1.0
         specifier: ^3.5.3
  version: 3.5.38
       '@types/jest':
+  specifier: ^29.2.6
+        version: 29.2.6
