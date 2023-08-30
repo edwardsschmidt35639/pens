@@ -83,3 +83,5 @@ version: 10.1.0
       '@types/jest':
   specifier: ^29.2.6
         version: 29.2.6
+'@types/yargs':
+        specifier: ^17.0.22
