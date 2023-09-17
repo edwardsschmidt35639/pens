@@ -107,3 +107,5 @@ version: 5.55.0(@typescript-eslint/parser@5.55.0)(eslint@7.32.0)(typescript@4.9.
       '@types/jest':
  specifier: ^29.2.6
         version: 29.2.6
+ '@types/yargs':
+        specifier: ^17.0.22
