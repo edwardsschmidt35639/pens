@@ -152,3 +152,5 @@ version: 5.55.0(@typescript-eslint/parser@5.55.0)(eslint@7.32.0)(typescript@4.9.
       eslint-import-resolver-typescript:
    specifier: ^3.5.3
         version: 3.5.3(eslint-plugin-i@2.27.5)(eslint@7.32.0)
+ eslint-plugin-import:
+        specifier: npm:eslint-plugin-i@^2.26.0-2
