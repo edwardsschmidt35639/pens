@@ -195,3 +195,5 @@ packages:
  hasBin: true
     peerDependencies:
       graphql: '*'
+  dependencies:
+      '@babel/core': 7.20.5
