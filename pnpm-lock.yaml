@@ -197,3 +197,5 @@ packages:
       graphql: '*'
   dependencies:
       '@babel/core': 7.20.5
+ '@babel/generator': 7.20.5
+      '@babel/parser': 7.20.13
