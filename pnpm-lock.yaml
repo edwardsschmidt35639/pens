@@ -203,3 +203,5 @@ packages:
       '@babel/traverse': 7.20.5
  '@babel/types': 7.20.7
       babel-preset-fbjs: 3.4.0(@babel/core@7.20.5)
+chalk: 4.1.2
+      fb-watchman: 2.0.2
