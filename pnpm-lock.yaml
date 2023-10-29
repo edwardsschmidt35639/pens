@@ -209,3 +209,5 @@ fbjs: 3.0.4
       glob: 7.2.0
  graphql: 16.6.0
       immutable: 3.7.6
+ invariant: 2.2.4
+      nullthrows: 1.1.1
