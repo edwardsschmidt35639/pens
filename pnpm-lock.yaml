@@ -216,3 +216,8 @@ fbjs: 3.0.4
       yargs: 15.4.1
   transitivePeerDependencies:
       - encoding
+ - supports-color
+    dev: true
+
+  /@ardatan/sync-fetch@0.0.1:
+    resolution: {integrity: sha512-xhlTqH0m31mnsG0tIP4ETgfSB6gXDaYYsUWTrlUV93fFQPI9dd8hE0Ot6MHLCtqgB32hwJAC3YZMWlXZw7AleA==}
