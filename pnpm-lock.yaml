@@ -230,3 +230,5 @@ fbjs: 3.0.4
 
   /@babel/code-frame@7.12.11:
     resolution: {integrity: sha512-Zt1yodBx1UcyiePMSkWnU4hPqhwq7hGi2nFL1LeA3EUl+q2LQx16MISgJ0+z7dnmgvP9QtIleuETGOiOH1RcIw==}
+  dependencies:
+      '@babel/highlight': 7.18.6
