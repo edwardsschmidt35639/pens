@@ -274,3 +274,5 @@ immutable: 3.7.6
       yargs: 15.4.1
  transitivePeerDependencies:
       - encoding
+- enquirer
+      - supports-color
