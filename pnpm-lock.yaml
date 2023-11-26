@@ -276,3 +276,6 @@ immutable: 3.7.6
       - encoding
 - enquirer
       - supports-color
+ dev: true
+
+  /@ardatan/sync-fetch@0.0.1:
